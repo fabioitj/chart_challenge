@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "value": 300,
+        "month": 1,
+        "id_brand": 1
+    },
+    {
+        "id": 2,
+        "value": 200,
+        "month": 3,
+        "id_brand": 1
+    },
+    {
+        "id": 3,
+        "value": 100,
+        "month": 6,
+        "id_brand": 1
+    },
+    {
+        "id": 4,
+        "value": 500,
+        "month": 9,
+        "id_brand": 1
+    },
+
+    {
+        "id": 5,
+        "value": 100,
+        "month": 1,
+        "id_brand": 2
+    },
+    {
+        "id": 6,
+        "value": 600,
+        "month": 3,
+        "id_brand": 2
+    },
+    {
+        "id": 7,
+        "value": 500,
+        "month": 6,
+        "id_brand": 2
+    },
+    {
+        "id": 8,
+        "value": 125,
+        "month": 9,
+        "id_brand": 2
+    },
+    
+    {
+        "id": 9,
+        "value": 900,
+        "month": 1,
+        "id_brand": 3
+    },
+    {
+        "id": 10,
+        "value": 350,
+        "month": 3,
+        "id_brand": 3
+    },
+    {
+        "id": 11,
+        "value": 250,
+        "month": 6,
+        "id_brand": 3
+    },
+    {
+        "id": 12,
+        "value": 550,
+        "month": 9,
+        "id_brand": 3
+    },
+
+    {
+        "id": 13,
+        "value": 100,
+        "month": 1,
+        "id_brand": 4
+    },
+    {
+        "id": 14,
+        "value": 500,
+        "month": 3,
+        "id_brand": 4
+    },
+    {
+        "id": 155,
+        "value": 200,
+        "month": 6,
+        "id_brand": 4
+    },
+    {
+        "id": 16,
+        "value": 400,
+        "month": 9,
+        "id_brand": 4
+    }
+]

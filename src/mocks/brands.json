@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Calvin Klein",
+        "id_product": 1
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "id_product": 2
+    },
+    {
+        "id": 3,
+        "name": "Nike",
+        "id_product": 3
+    },
+    {
+        "id": 4,
+        "name": "Havaianas",
+        "id_product": 4
+    }
+]

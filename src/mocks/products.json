@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "id_category": 1
+    },
+    {
+        "id": 2,
+        "name": "Sweather",
+        "id_category": 1
+    },
+    {
+        "id": 3,
+        "name": "Boot",
+        "id_category": 2
+    },
+    {
+        "id": 4,
+        "name": "Slipper",
+        "id_category": 2
+    }
+]
