@@ -1,0 +1,7 @@
+.row {
+    width: 80%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
